@@ -18,7 +18,7 @@ Progetto JS di gruppo basato su una pagina interattiva. Sviluppato utilizzando l
   - [](#-1)
   - [🔛Avvio dell' applicazione,](#avvio-dell-applicazione)
   - [📃Sitografia e fonti](#sitografia-e-fonti)
-  - [🧑‍💻Autori](#autori)
+  - [🧑‍💻Autore](#autore)
 
 
 ## 🎯[Cosa fa l' applicazione?](#indice)
@@ -121,15 +121,15 @@ function startTimer() {
 
 - **Welcome Page**
   ------------------
-  ![Welcome Page](./Ambiente%20Produzione/assets/img/image.png)
+  ![Welcome Page](./assets/img/image.png)
   ------------------
 - **Quiz Page**
   ------------------
-  ![Quiz Page](./Ambiente%20Produzione/assets/img/image-1.png)
+  ![Quiz Page](./assets/img/image-1.png)
   ------------------
 - **Results Page**
   ------------------
- ![Results Page](./Ambiente%20Produzione/assets/img/image-2.png)
+ ![Results Page](./assets/img/image-2.png)
 
 -----
 ## 🔛[Avvio dell' applicazione](#indice),
@@ -146,8 +146,5 @@ function startTimer() {
 6. *GIF :* https://media4.giphy.com/.
 7. *FavIcon :* https://www.flaticon.com/.
    
-## 🧑‍💻[Autori](#indice)
-- **Leader : Lorenzo Melis** https://github.com/JusTMeth25.
--  **Membro : Luciano Labozzetta** https://github.com/SaltyGhosty.
--  **Membro : Giuliana Petricore** https://github.com/Giuliaxin.
--  **Membro : Cristian Jorge** https://github.com/CristianNunezJorge.
+## 🧑‍💻[Autore](#indice)
+- **Lorenzo Melis** https://github.com/JusTMeth25.
