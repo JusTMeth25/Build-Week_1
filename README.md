@@ -18,7 +18,7 @@ Progetto JS di gruppo basato su una pagina interattiva. Sviluppato utilizzando l
   - [](#-1)
   - [🔛Avvio dell' applicazione,](#avvio-dell-applicazione)
   - [📃Sitografia e fonti](#sitografia-e-fonti)
-  - [🧑‍💻Autore](#autore)
+  - [🧑‍💻Autori](#autori)
 
 
 ## 🎯[Cosa fa l' applicazione?](#indice)
@@ -146,5 +146,8 @@ function startTimer() {
 6. *GIF :* https://media4.giphy.com/.
 7. *FavIcon :* https://www.flaticon.com/.
    
-## 🧑‍💻[Autore](#indice)
-- **Lorenzo Melis** https://github.com/JusTMeth25.
+## 🧑‍💻[Autori](#indice)
+- **Leader : Lorenzo Melis** https://github.com/JusTMeth25.
+-  **Membro : Luciano Labozzetta** https://github.com/SaltyGhosty.
+-  **Membro : Giuliana Petricore** https://github.com/Giuliaxin.
+-  **Membro : Cristian Jorge** https://github.com/CristianNunezJorge.
